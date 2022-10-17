@@ -20,15 +20,19 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import house from '../assets/house.jpg';
+import grass from '../assets/grass.jpg';
 
 export default {
   bg,
   chef,
   G,
+  grass,
   gallery01,
   gallery02,
   gallery03,
   gallery04,
+  house,
   knife,
   logo,
   menu,
