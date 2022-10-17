@@ -21,7 +21,10 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import house from '../assets/house.jpg';
-import grass from '../assets/grass.jpg';
+import grass from '../assets/grass.png';
+import mower from '../assets/mower.png';
+
+// <a href="https://www.flaticon.com/free-icons/grass" title="grass icons">Grass icons created by Freepik - Flaticon</a>
 
 export default {
   bg,
@@ -36,6 +39,7 @@ export default {
   knife,
   logo,
   menu,
+  mower,
   overlaybg,
   spoon,
   welcome,
